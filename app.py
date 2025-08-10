@@ -245,6 +245,7 @@ def update_output_div(date, hour, proy):
 # Run the server. 
 # Este es un cambio de prueba en la rama juana-viz.
 # Segundo cambio desde VSCode, será sincronizado con GitHub
+# I am the partner!
 if __name__ == "__main__":
     #app.run_server(debug=True)
     app.run(debug=True)
